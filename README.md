@@ -1,5 +1,5 @@
 # Natural Language Processing 
-A repository for python implementations of various tasks of Natural Language Processing 
+A repository for python implementations of various tasks of Natural Language Processing. 
 It has the following implementations:
 1. Tokenisation
 2. Stemming
